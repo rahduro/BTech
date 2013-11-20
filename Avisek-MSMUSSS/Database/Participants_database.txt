@@ -1,0 +1,3 @@
+Bits of Prime : 128
+Number of Secret : 3
+Maximum no of access structure in a secret : 3
